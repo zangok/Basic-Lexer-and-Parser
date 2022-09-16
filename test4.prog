@@ -1,0 +1,22 @@
+print x + 2
+get num hello why
+file "hello.txt"
+i = 0
+sum = 0
+while i < num
+  get _x
+  sum = sum + _x
+end
+for 2
+  print " what is this\n"
+end
+q = sum + num
+r = sum % num
+
+print " The average is"
+print q
+print " "
+print r
+print " / "
+print num
+print " \n"

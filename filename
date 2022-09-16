@@ -1,0 +1,35 @@
+<print>
+<string>
+Welcome to my program.
+
+<stringE>
+<print>
+<string>
+Enter a number: 
+<stringE>
+<input>
+x
+<inputE>
+<if>
+<ID>
+x
+<add>
+<int>
+2
+<then>
+<assign>
+x
+<ID>
+x
+<mult>
+<int>
+2
+<assignE>
+<else>
+<assign>
+x
+<assignE>
+<else>
+<print>
+<ID>
+x
